@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805160954319",
+    "project_id": "save-data-user-af081",
+    "storage_bucket": "save-data-user-af081.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805160954319:android:0db33d3d9975387748caba",
+        "android_client_info": {
+          "package_name": "com.example.user_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn2XYs3WyX6MXJs4WuV6ZiI9E2yONKNAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
